@@ -4,7 +4,7 @@
     &nbsp;&nbsp;
   </div>
   <br>
-  <div>Built and maintained by researchers from MBZUAI </div>
+  <div>Built and maintained by researchers from MetaAgentX Team </div>
   <br>
 </div>
 <hr/>
