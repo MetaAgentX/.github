@@ -17,7 +17,8 @@
 
 This organization contains the source code for projects that aim to advance Agents to Solve Diverse Real-World Deployment Tasks:
 * [OpenCaptchaWorld](https://github.com/MetaAgentX/OpenCaptchaWorld), a benchmark and platform for evaluating Multimodal Agents on Modern Real-World CAPTCHAs.
-* [Next-Gen Captchas](https://github.com/MetaAgentX/NextGen-CAPTCHAs), a GUI-Agent era's newly-designed web denfense CAPTCHAs System and also Benchmark for GUI Agents.
+* [Next-Gen CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs), a GUI-Agent era's newly-designed web denfense CAPTCHAs System and also Benchmark for GUI Agents.
+
 
 
 
