@@ -6,7 +6,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://github.com/MetaAgentX/NextGen-CAPTCHAs">
-    <img src="logo.png" alt="NextGen-CAPTCHAs" height="120px">
+    <img src="Open_CaptchaWorld_Logo.png" alt="NextGen-CAPTCHAs" height="120px">
   </a>
   
   <br><br>
@@ -18,6 +18,7 @@
 This organization contains the source code for projects that aim to advance Agents to Solve Diverse Real-World Deployment Tasks:
 * [OpenCaptchaWorld](https://github.com/MetaAgentX/OpenCaptchaWorld), a benchmark and platform for evaluating Multimodal Agents on Modern Real-World CAPTCHAs.
 * [Next-Gen CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs), a GUI-Agent era's newly-designed web denfense CAPTCHAs System and also Benchmark for GUI Agents.
+
 
 
 
